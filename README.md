@@ -21,3 +21,5 @@ The total result includes the formula<br>
 _________________________________________________________________________
 ### Install
     npm install
+    npm install webpack webpack-cli --save-dev
+    npx webpack
